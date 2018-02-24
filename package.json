@@ -30,5 +30,13 @@
   "dependencies": {
     "babel-plugin-transform-inline-environment-variables": "^0.3.0",
     "dotenv": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/babel-plugin-transform-dotenv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gerhut/babel-plugin-transform-dotenv/issues"
+  },
+  "homepage": "https://github.com/Gerhut/babel-plugin-transform-dotenv#readme"
 }
