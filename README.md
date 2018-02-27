@@ -1,6 +1,5 @@
 # babel-plugin-transform-dotenv
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Gerhut/babel-plugin-transform-dotenv.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Gerhut/babel-plugin-transform-dotenv.svg?branch=master)](https://travis-ci.org/Gerhut/babel-plugin-transform-dotenv)
 [![Coverage Status](https://coveralls.io/repos/github/Gerhut/babel-plugin-transform-dotenv/badge.svg?branch=master)](https://coveralls.io/github/Gerhut/babel-plugin-transform-dotenv?branch=master)
 [![dependencies Status](https://david-dm.org/Gerhut/babel-plugin-transform-dotenv/status.svg)](https://david-dm.org/Gerhut/babel-plugin-transform-dotenv)
