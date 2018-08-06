@@ -1,4 +1,4 @@
-/* eslint-env mocha */
+/* eslint-env jest */
 
 const pluginTester = require('babel-plugin-tester')
 

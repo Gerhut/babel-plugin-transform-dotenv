@@ -4,7 +4,7 @@
   "description": "Transform `process.env.FIELD` into environment variables with dotenv.",
   "main": "index.js",
   "scripts": {
-    "pretest": "eslint *.js",
+    "pretest": "eslint .",
     "test": "jest",
     "posttest": "jest --coverage"
   },
