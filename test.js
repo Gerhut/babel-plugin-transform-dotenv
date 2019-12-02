@@ -1,9 +1,10 @@
 /* eslint-env jest */
 
-const pluginTester = require('babel-plugin-tester')
+import pluginTester from 'babel-plugin-tester'
+import plugin from '.'
 
 pluginTester({
-  plugin: require('.'),
+  plugin,
   filename: __filename,
   tests: {
     'transform environment variables': {
